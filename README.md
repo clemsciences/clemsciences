@@ -19,7 +19,7 @@ My main interests are:
 
 - mental health, I founded [Skilvit](https://github.com/skilvit) (seulement disponible en français), a [web app](https://www.skilvit.fr) which help patients to keep contact with their practicians, there is also an [Android app](https://github.com/skilvit/skilvit-android) which helps note one's feelings and behaviours.
 
-[My web site](https://www.clementbesnier.fr) where I put thinks I worked on.
+[My web site](https://www.clementbesnier.fr) where I put things I worked on.
 
 My [channel on Youtube](https://www.youtube.com/channel/UCZz4Zz79hldhYGIuIPIht5g?view_as=subscriber) on medieval Germanic literature (in French).
 
