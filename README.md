@@ -4,7 +4,7 @@ Bonjour !
 
 My main interests are:
 
-- medieval Germanic philology (Old Norse, Old/Middle High German), I provide code to parse corpora for :
+- medieval Germanic philology (Old Norse, Old/Middle High German), I provide code to **parse** corpora for :
   * [Old Norse](https://github.com/clemsciences/old_norse_corpus), [Old Norse dictionary (not finished)](https://github.com/clemsciences/old_norse_dictionary_zoega),
   * [Old Swedish](https://github.com/clemsciences/old_swedish_texts), [etymological dictionary of Swedish](https://github.com/clemsciences/old_high_german_texts), 
   * [runic inscriptions](https://github.com/clemsciences/old_norse_runes_db),  
