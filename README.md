@@ -17,7 +17,7 @@ My main interests are:
   
 - robotics, I especially like how measures can help track one's own position ([Kalman filtering](https://github.com/clemsciences/filtrage_kalman), [LiDAR code](https://github.com/gobgob/lidar-processor), [LiDAR notebooks](https://github.com/clemsciences/lidar-notebooks), [a web app to watch LiDAR measures](https://github.com/clemsciences/lidar-server-flask-vue)) ;
 
-- mental health, I founded [Skilvit](https://github.com/skilvit) (seulement disponible en français), a [web app](https://www.skilvit.fr) which help patients to keep contact with their practicians, there is also an [Android app](https://github.com/skilvit/skilvit-android) which helps note one's feelings and behaviours.
+- mental health, I founded [Skilvit](https://github.com/skilvit) (seulement disponible en français), a [web app](https://www.skilvit.fr) which helps patients to keep contact with their practicians, there is also an [Android app](https://github.com/skilvit/skilvit-android) which helps note one's feelings and behaviours.
 
 [My web site](https://www.clementbesnier.fr) where I put things I worked on.
 
