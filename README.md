@@ -10,7 +10,7 @@ My main interests are:
   * [runic inscriptions](https://github.com/clemsciences/old_norse_runes_db),  
   * [Old High German](https://github.com/clemsciences/old_high_german_texts) ;
   
-- computational linguitics, I also contribute to [CLTK](https://github.com/cltk):
+- computational linguistics, I also contribute to [CLTK](https://github.com/cltk):
   * [presentation at Graz university in November 2019](https://github.com/clemsciences/cltk-2019-graz) with [a use case on the Nibelungenlied/Völsunga saga](https://github.com/clemsciences/comparison_sigurdr_siegfried), I added [a map to display places mentioned in the Nibelungenlied](https://github.com/clemsciences/nibelungen_map),
   * [Jupyter notebooks on Old Norse](https://github.com/clemsciences/old_norse_notebook),
   * [Old Norse corpus](https://github.com/cltk/non_texts), [tools for Old Norse](https://github.com/cltk/non_models_cltk) ;
