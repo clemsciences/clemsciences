@@ -6,7 +6,7 @@ My main interests are:
 
 - medieval Germanic philology (Old Norse, Old/Middle High German), I provide code to **parse** corpora for :
   * [Old Norse](https://github.com/clemsciences/old_norse_corpus), [Old Norse dictionary (not finished)](https://github.com/clemsciences/old_norse_dictionary_zoega),
-  * [Old Swedish](https://github.com/clemsciences/old_swedish_texts), [etymological dictionary of Swedish](https://github.com/clemsciences/old_high_german_texts), 
+  * [Old Swedish](https://github.com/clemsciences/old_swedish_texts), [etymological dictionary of Swedish](https://github.com/clemsciences/svety), 
   * [runic inscriptions](https://github.com/clemsciences/old_norse_runes_db),  
   * [Old High German](https://github.com/clemsciences/old_high_german_texts) ;
   
@@ -22,8 +22,9 @@ My main interests are:
 My papers:
 - [History to Myths: Social Network Analysis for Comparison of Stories over Time](https://aclanthology.org/2020.latechclfl-1.1/),
 - [The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages](https://aclanthology.org/2021.acl-demo.3/)
+- [Named-Entity Dataset for Medieval Latin, Middle High German and Old Norse](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.36/)
 
-[My web site](https://www.clementbesnier.fr) where I put things I worked on.
+[My web site](https://clementbesnier.eu) where I put things I worked on.
 
 My [channel on Youtube](https://www.youtube.com/channel/UCZz4Zz79hldhYGIuIPIht5g?view_as=subscriber) on medieval Germanic literature (in French).
 
